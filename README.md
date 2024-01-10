@@ -23,3 +23,5 @@ git add <file-name>
 commit - It is the record of the change
 <br> 
 git commit -m "some message"
+<br>
+git push origin main - To push all the commited contain from the loc storage to github
